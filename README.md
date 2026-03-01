@@ -33,7 +33,7 @@ int main ( int argc, char * argv [] )
   return 0;
 } 
 Sample program runs:
-
+<pre>
 ml' nob:
 1
 Qapla'
@@ -69,3 +69,4 @@ luj
 ml' nob:
 abc
 luj
+</pre>
