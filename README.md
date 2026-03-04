@@ -1,3 +1,5 @@
+Written: 12/10/2020
+
 The task is to develop a program which prints out quotations.
 
 The input of the program is an integer. The integer is in range 1 to 5 (inclusive). The value is an identifier of the quotation to print out.
